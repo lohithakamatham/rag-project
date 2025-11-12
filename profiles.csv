@@ -1,0 +1,6 @@
+id,name,role,skills,experience
+1,Jane Doe,Data Scientist,"Python, ML, NLP",3 years
+2,John Smith,Backend Engineer,"FastAPI, PostgreSQL, Docker",4 years
+3,Anita Rao,AI Engineer,"LangChain, RAG, OpenAI",2 years
+4,Rahul Verma,Full Stack Developer,"React, Node.js, PostgreSQL",5 years
+5,Sneha Patel,ML Engineer,"TensorFlow, PyTorch, Deployment",3 years
